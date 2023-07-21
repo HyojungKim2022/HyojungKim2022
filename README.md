@@ -1,4 +1,3 @@
-# <img src="https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=Hyojung%20Github&fontSize=90" />
 
 <h4 align="center">🛠Tech Stack🛠</h4>
 
@@ -7,11 +6,6 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
-
-
-
-
-# <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyojungKim2022&layout=compact"><br><br>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=HyojungKim2022&theme=dark&show_icons=true"/></a>
