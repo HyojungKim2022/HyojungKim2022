@@ -11,7 +11,7 @@
 
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyojungKim2022)](https://github.com/HyojungKim2022/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyojungKim2022)](https://github.com/HyojungKim2022/github-readme-stats">
 </p>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=HyojungKim2022&theme=dark&show_icons=true"/></a>
