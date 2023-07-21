@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=Hyojung%20Github&fontSize=90" />
+# <img src="https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=Hyojung%20Github&fontSize=90" />
 
 <h4 align="center">🛠Tech Stack🛠</h4>
 
@@ -11,7 +11,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyojungKim2022&layout=compact"><br><br>
+# <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyojungKim2022&layout=compact"><br><br>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=HyojungKim2022&theme=dark&show_icons=true"/></a>
