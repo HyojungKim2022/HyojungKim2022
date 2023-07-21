@@ -10,7 +10,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyojungKim2022&layout=compact"><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyojungKim2022)](https://github.com/HyojungKim2022/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=HyojungKim2022&show_icons=true">
 <!--
 **HyojungKim2022/HyojungKim2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
