@@ -10,9 +10,9 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyojungKim2022&layout=compact"><br><br>
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyojungKim2022&layout=compact"><br><br>
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=HyojungKim2022&theme=dark&show_icons=true"/></a>
 </p>
