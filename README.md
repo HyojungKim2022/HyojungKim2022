@@ -11,7 +11,7 @@
 <h4 align="center">🌱Environment🌱</h4>
 <div align="center">
 	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
- 	<img src="https://img.shields.io/badge/jupyter-#F37626?style=flat&logo=jupyter&logoColor=white">	
+ 	<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white">	
 </div>
 
 <h4 align="center">📫SNS📫</h4>
