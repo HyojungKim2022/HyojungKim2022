@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=egg&color=timeGradient&height=300&section=header&text=Hyojung%20Github&fontSize=90" />
 
-<p align="center">🚀Tech Stack🚀</p>
+<h1 align="center">🛠Tech Stack🛠</h1>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white" />
