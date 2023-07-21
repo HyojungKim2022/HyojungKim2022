@@ -12,14 +12,15 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 </div>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=HyojungKim2022&theme=dark&show_icons=true"/></a>
-</p>
 
 <h4 align="center">📫SNS📫</h4>
 <div align="center">
 	<a href = "https://www.linkedin.com/in/hyojung-kim-88028b184/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flate&logo=linkedin&logoColor=white"></a>
 </div>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=HyojungKim2022&theme=dark&show_icons=true"/></a>
+</p>
 
 <!--
 **HyojungKim2022/HyojungKim2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
