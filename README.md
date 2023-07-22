@@ -20,7 +20,7 @@
 </div><br><br>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyojungKim2022&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src=https://github-readme-stats.vercel.app/api?username=HyojungKim2022&show_icons=true&theme=radical>
 </a>
 
 <!--
