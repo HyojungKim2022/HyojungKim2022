@@ -19,9 +19,11 @@
 	<a href = "https://www.linkedin.com/in/hyojung-kim-88028b184/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flate&logo=linkedin&logoColor=white"></a>
 </div><br><br>
 
+<!--
 <p align="center">
   <img src=https://github-readme-stats.vercel.app/api?username=HyojungKim2022&show_icons=true&theme=radical>
 </p>
+-->
 
 <!--
 **HyojungKim2022/HyojungKim2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
